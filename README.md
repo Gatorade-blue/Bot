@@ -1,0 +1,2 @@
+# Bot
+Afk bot
