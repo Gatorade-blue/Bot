@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Vhexplodiansmc.aternos.me", 
-    "port": 18700,   
+    "ip": "minecraft.vhparadise.com", 
+    "port": 25665,   
     "version": "1.12.1"   
   },
   
